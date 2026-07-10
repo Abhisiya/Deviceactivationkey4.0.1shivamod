@@ -172,5 +172,11 @@
         "key": "key798311",
         "expirydate": "25-07-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "cab9729edd42abcc",
+        "key": "key798312",
+        "expirydate": "25-07-2026",
+        "Allowoffline": false
     }
 ]
