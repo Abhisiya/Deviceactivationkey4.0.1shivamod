@@ -44,7 +44,7 @@
 {
         "device_id": "261de7389346c378",
         "key": "key203206",
-        "expirydate": "20-07-2026",
+        "expirydate": "27-07-2026",
         "Allowoffline": false
     },
 {
@@ -297,6 +297,12 @@
         "device_id": "7c4d168ba6eca059",
         "key": "key941118",
         "expirydate": "02-08-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "261de7389346c378",
+        "key": "key941119",
+        "expirydate": "05-08-2026",
         "Allowoffline": false
     }
 ]
